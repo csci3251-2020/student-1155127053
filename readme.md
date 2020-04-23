@@ -1,6 +1,7 @@
 # Project Milestone 2..
 # Self Intro
 Hi there, this is David, a year 2 CS student who is new to Github.
+
 **Interest:**
 * Algorithm
 * AI
@@ -18,10 +19,10 @@ Perl|**NO!**
 COBOL|NO
 # Anything else
 **TO DO LIST**
-[ ] Assigments 
-[ ] Revision 
-[ ] ~~Playing games bought from steam sale~~
-[x] Being Alive...
+- [ ] Assigments 
+- [ ] Revision 
+- [ ] ~~Playing games bought from steam sale~~
+- [x] Being Alive...
 
 
 
