@@ -23,7 +23,8 @@ COBOL|NO
 - [ ] Revision 
 - [ ] ~~Playing games bought from steam sale~~
 - [x] Being Alive...
-
+# Screenshot
+![alt text](Screenshot_1.png)
 
 
 
